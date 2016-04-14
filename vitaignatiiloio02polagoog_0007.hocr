@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitaignatiiloio02polagoog_0007.png"; bbox 0 0 3742 5392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 780 470 2795 568">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 780 470 2795 568">
+     <span class='ocr_line' id='line_1_1' title="bbox 780 470 2795 568; baseline -0 -13"><span class='ocrx_word' id='word_1_1' title='bbox 780 471 1378 555; x_wconf 87' lang='lat' dir='ltr'><strong>MONUMENTA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1435 471 1932 555; x_wconf 86' lang='lat' dir='ltr'>HISTORICA</span> <span class='ocrx_word' id='word_1_3' title='bbox 1986 471 2523 554; x_wconf 87' lang='lat' dir='ltr'>SOCIETATIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 2577 470 2795 568; x_wconf 90' lang='lat' dir='ltr'>JESU</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 608 602 2809 620">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 608 602 2809 620">
+     <span class='ocr_line' id='line_1_2' title="bbox 608 602 2809 620; baseline -0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 608 609 699 620; x_wconf 49' lang='lat' dir='ltr'>*nn-e—</span> <span class='ocrx_word' id='word_1_6' title='bbox 704 609 723 617; x_wconf 64' lang='lat' dir='ltr'>a-</span> <span class='ocrx_word' id='word_1_7' title='bbox 730 605 1110 618; x_wconf 43' lang='lat' dir='ltr'>tum-ema*</span> <span class='ocrx_word' id='word_1_8' title='bbox 1113 605 1286 618; x_wconf 51' lang='lat' dir='ltr'>§Au-vua</span> <span class='ocrx_word' id='word_1_9' title='bbox 1291 607 1442 617; x_wconf 47' lang='lat' dir='ltr'>&amp;we-‘x</span> <span class='ocrx_word' id='word_1_10' title='bbox 2534 602 2809 616; x_wconf 53' lang='lat' dir='ltr'>mm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 681 2359 2891 2537">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 681 2359 2891 2537">
+     <span class='ocr_line' id='line_1_3' title="bbox 681 2359 2891 2537; baseline 0.002 -33"><span class='ocrx_word' id='word_1_11' title='bbox 681 2397 1440 2505; x_wconf 69' lang='lat' dir='ltr'>HISTORIA</span> <span class='ocrx_word' id='word_1_12' title='bbox 1521 2394 2455 2504; x_wconf 82' lang='lat' dir='ltr'>SOCJETATIS</span> <span class='ocrx_word' id='word_1_13' title='bbox 2510 2359 2891 2537; x_wconf 75' lang='lat' dir='ltr'>&#39;JESU</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
